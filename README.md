@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @D4LM
 - 👀 I’m interested in laptops, coding, and what most nerds like.
-- 🌱 I’m currently learning Lua, python, javascript
+- 🌱 I’m currently learning Lua, Python, Javascript & Java
 
 
 <!---
