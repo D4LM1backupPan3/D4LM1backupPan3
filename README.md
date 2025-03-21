@@ -1,16 +1,11 @@
-* 👋 Hi, I’m @D4LM
-* 👀 I’m interested in laptops, coding, and what most nerds like.
-* 🌱 I’m currently learning Lua, Python, Javascript & Java
-* I have a website at https://d4lmwastaken.github.io/
-* Right now here are my priorities:
-*   LHSCC Discord Bot
-*   Chenyun FTC Robtot
-*   LHSCC Website
-*   Golden Aleksei Website
-*   Everything else
-* Treasurer of the LHSCC and coding captain for Golden Aleksei
-  
+# D4LM
+* Go Linux! High School coder that messes around with everything!
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=D4LMwastaken&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
+
+![GitHub Stats](https://streak-stats.demolab.com?user=D4LMwastaken&theme=midnight-purple&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=D4LMwastaken&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
 
 <!---
 D4LM1backupPan3/D4LM1backupPan3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
