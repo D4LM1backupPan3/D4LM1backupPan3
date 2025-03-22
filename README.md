@@ -8,7 +8,7 @@
 
 ## About Me
 
-Hi, I'm D4LM! I'm a high school student leading passionate about software development and all things Linux. **A coder at day and a gamer at night.** I primarily code in **Python**, but I'm also exploring **Go** and **Lua**. I'm particularly interested in hardware programming.  I love experimenting with different Linux distributions, especially ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) KDE Plasma.
+Hi, I'm D4LM! I'm a high school student leading passionate about software development and all things Linux. **A coder at day and a gamer at night.** I primarily code in **Python**, but I'm also exploring **Go** and **Lua**. I'm particularly interested in hardware programming.  I love experimenting with different Linux distributions, especially ![Fedora](https://img.shields.io/badge/Fedora-294172?style=flat&logo=fedora&logoColor=white) KDE Plasma.
 
 My current learning goals include learning more python and finishing my sophmore year of High School. Right now contributing to an open-source project that I have created as experiments for education purposes.
 
