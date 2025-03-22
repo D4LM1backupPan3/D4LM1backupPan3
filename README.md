@@ -1,10 +1,10 @@
-[Profile Image here, once get GitHub Permalink]
+![Profile Image](https://github.com/D4LMwastaken/D4LMwastaken/blob/802a50c50f739fedd87f03541966a5d7e1ad28ae/Images/Circle%20Logo.svg)
 
 # D4LM - A coder & student at day and a hacker & gamer at night
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=D4LMwastaken&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=D4LMwastaken&theme=midnight-purple&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=D4LMwastaken&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=D4LMwastaken&theme=midnight-purple&hide_border=true)
 
 ## About Me
 
@@ -33,7 +33,7 @@ Here are some of the projects I'm working on or have completed:
 
 *   **Tools/Frameworks:** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Zed](https://img.shields.io/badge/zedindustries-084CCF.svg?style=for-the-badge&logo=zedindustries&logoColor=white) 
 *   **Operating Systems:** ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-*   **Subject:** ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
+*   **Test Subject:** ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
 *   **Other:** Debugging, collaboration, experimentation & some stuff that I can't put on here...
 
 ## Contributions
